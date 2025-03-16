@@ -7,6 +7,7 @@
         "magento-hackathon/magento-composer-installer": "*",
         "openmage-strict/module-catalog": "^120.2",
         "openmage-strict/module-catalog-rule": "^120.2",
-        "openmage-strict/module-eav": "^120.2"
+        "openmage-strict/module-eav": "^120.2",
+        "zf1s/zend-db": "*"
     }
 }
